@@ -1,2 +1,2 @@
 #!/bin/bash
-alias PATH=$PATH:/actio
+alias PATH=$PATH: /actio
